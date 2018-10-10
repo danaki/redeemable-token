@@ -1,0 +1,7 @@
+{
+    "require": {
+        "kornrunner/secp256k1": "^0.1.1",
+        "simplito/elliptic-php": "^1.0",
+        "kornrunner/keccak": "^1.0"
+    }
+}
